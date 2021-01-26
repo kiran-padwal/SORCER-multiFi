@@ -16,7 +16,7 @@ public interface CoffeeMaking {
 	 * @param r
 	 * @return boolean
 	 */
-	public boolean addRecipe(Recipe r)  throws RemoteException;
+//	public boolean addRecipe(Recipe r)  throws RemoteException;
 
 	/**
 	 * Returns true if the recipe was deleted from the 
